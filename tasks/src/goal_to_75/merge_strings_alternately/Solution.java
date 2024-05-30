@@ -1,4 +1,4 @@
-package goal_to_75;
+package goal_to_75.merge_strings_alternately;
 
 public class Solution {
     
